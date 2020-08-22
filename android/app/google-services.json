@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696707936456",
+    "firebase_url": "https://here-for-care.firebaseio.com",
+    "project_id": "here-for-care",
+    "storage_bucket": "here-for-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696707936456:android:81b4496b224e0e97deb5fd",
+        "android_client_info": {
+          "package_name": "bhavdeepsingh.com.here_for_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696707936456-1rkb545flkplldn07fbkbaopclj7i6mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR2rxZ96PQPoA5a1k20kJuWz4Jvzo09go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696707936456-1rkb545flkplldn07fbkbaopclj7i6mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
